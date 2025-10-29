@@ -8,15 +8,15 @@ I contributed primarily to the **backend and database integration**, focusing on
 - Implementing PHP and MySQL functionalities for dynamic data retrieval.
 - Participating in UI/UX refinements and testing.
 
-🔹 **Technologies Used**
+**Technologies Used**
 - HTML, CSS, JavaScript  
 - PHP (Backend)  
 - MySQL (Database)
 
-🔹 **Original Project**
+**Original Project**
 This repository is forked from the main group project:  
-👉 [SAmWaM42/SAmWaM42.github.io](https://github.com/SAmWaM42/SAmWaM42.github.io)
+[SAmWaM42/SAmWaM42.github.io](https://github.com/SAmWaM42/SAmWaM42.github.io)
 
 ---
 
-⭐ *This fork highlights my individual contributions to a team-based web development project.*
+*This fork highlights my individual contributions to a team-based web development project.*

@@ -18,3 +18,5 @@ This repository is forked from the main group project:
 👉 [SAmWaM42/SAmWaM42.github.io](https://github.com/SAmWaM42/SAmWaM42.github.io)
 
 ---
+
+⭐ *This fork highlights my individual contributions to a team-based web development project.*

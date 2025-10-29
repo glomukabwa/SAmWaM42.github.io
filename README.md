@@ -19,4 +19,4 @@ This repository is forked from the main group project:
 
 ---
 
-*This fork highlights my individual contributions to a team-based web development project.*
+⭐ *This fork highlights my individual contributions to a team-based web development project.*
